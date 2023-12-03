@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ochi/static/css/main.77d66935.css",
+    "main.js": "/ochi/static/js/main.aec800ed.js",
+    "static/media/wawe.svg": "/ochi/static/media/wawe.69acf0b52d8564cc0dc6.svg",
+    "index.html": "/ochi/index.html",
+    "main.77d66935.css.map": "/ochi/static/css/main.77d66935.css.map",
+    "main.aec800ed.js.map": "/ochi/static/js/main.aec800ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77d66935.css",
+    "static/js/main.aec800ed.js"
+  ]
+}
